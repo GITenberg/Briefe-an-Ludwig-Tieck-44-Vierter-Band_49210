@@ -1,10 +1,14 @@
 _repo: Briefe-an-Ludwig-Tieck-44-Vierter-Band_49210
+_version: 0.1.0
 contributor:
   creator:
     editor:
       agent_name: Holtei, Karl von
       gutenberg_agent_id: '45131'
       url: http://www.gutenberg.org/2009/agents/45131
+covers:
+- cover_type: archival
+  image_path: 49210-h/images/cover.jpg
 creator:
   author:
     agent_name: Various
@@ -12,6 +16,8 @@ creator:
     gutenberg_agent_id: '116'
     url: http://www.gutenberg.org/2009/agents/116
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/49210#Briefe-an-Ludwig-Tieck-44-Vierter-Band
 gutenberg_issued: '2015-06-14'
 gutenberg_type: Text
 identifiers:
